@@ -1,6 +1,6 @@
 Software for performing kinetic simulations of NMDA receptor kinetics, and fitting simulations to data, using python and NEURON. 
 
-Requires installation of a Python distribution (Anaconda recommended) and NEURON
+Requires installation of a Python distribution (Anaconda recommended) and NEURON.
 
 Start with "Tutorial" file for walkthrough.
 
