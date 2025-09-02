@@ -4,4 +4,4 @@ Requires installation of a Python distribution (Anaconda recommended) and NEURON
 
 Start with "Tutorial" file for walkthrough.
 
-Note: while designed for NMDA receptors, this should work with any ion channel model that uses .SCOP or .MOD model files. Can be used as a replacement for the now-defunct SCoP program.
+Note: while designed for NMDA receptors, this can be adapted for use with any ion channel model that uses .SCOP or .MOD model files. Can be used as a replacement for the SCoP modeling package.
